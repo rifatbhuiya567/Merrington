@@ -1,0 +1,392 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .header-links-top a {
+        font-size: 22px;
+    }
+
+    .header-links-top a i {
+        font-size: 29px;
+    }
+
+    .banner-content {
+        height: 580px;
+    }
+
+    .watermark {
+        padding: 140px 0 40px 0;
+    }
+
+    .service-content {
+        padding: 20px 0px;
+    }
+
+    .contact-maps {
+        height: 480px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    :root {
+        --h1-font-size : 37px;
+        --h2-font-size : 30px;
+        --h3-font-size : 25px;
+        --h4-font-size : 21px;
+        --h5-font-size : 17px;
+        --h6-font-size : 15px;
+        --large-font-size : 17px;
+        --font-size : 15px;
+    }
+
+    .container-padding {
+        padding: 0 2%;
+    }
+
+    .banner-content {
+        height: 520px;
+    }
+
+    .banner .prev, .next {
+        font-size: 30px;
+    }
+
+    .ca-banner {
+        height: 280px;
+    }
+
+    .watermark .col-md-4 {
+        padding: 0 4px;
+    }
+
+    .watermark {
+        padding: 120px 0 40px 0;
+    }
+
+    .service-content {
+        padding: 16px 0px;
+    }
+
+    .side-border {
+        border-left: 1px solid transparent;
+        border-right: 1px solid transparent;
+    }
+
+    footer .address {
+        margin-top: 16px;
+    }
+
+    footer .address br {
+        display: none;
+    }
+
+    .footer-content .tele {
+        font-size: 20px;
+    }
+
+    .price-details .two.mt-5 {
+        margin-top: 2rem !important;
+    }
+
+    .contact-maps {
+        height: 380px;
+    }
+
+    .reviews .mt-5 {
+        margin-top: 2rem !important;
+    }
+
+    .md-device {
+        margin-top: 20px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    :root {
+        --h1-font-size : 33px;
+        --h2-font-size : 26px;
+        --h3-font-size : 23px;
+        --h4-font-size : 19px;
+        --h5-font-size : 16px;
+        --h6-font-size : 15px;
+        --large-font-size : 16px;
+        --font-size : 15px;
+    }
+
+    .container-padding {
+        padding: 0 0%;
+    }
+
+    .section {
+        padding: 52px 0;
+    }
+
+    .section-half {
+        padding: 32px 0;
+    }
+
+    .banner-content {
+        height: 440px;
+    }
+
+    .banner .prev, .next {
+        font-size: 30px;
+    }
+
+    .company-about .mt-5 {
+        margin-top: 1.5rem !important;
+    }
+
+    .ca-banner {
+        height: 200px;
+    }
+
+    .about-banner-content p {
+        font-size: 20px;
+    }
+
+    .watermark .col-md-4 {
+        padding: 0 4px;
+    }
+
+    .watermark {
+        padding: 120px 0 40px 0;
+    }
+
+    .service-content {
+        padding: 16px 0px;
+    }
+
+    .side-border {
+        border-left: 1px solid transparent;
+        border-right: 1px solid transparent;
+    }
+
+    footer .address {
+        margin-top: 16px;
+    }
+
+    footer .address br {
+        display: none;
+    }
+
+    .footer-content .tele {
+        font-size: 20px;
+    }
+
+    .lake-details .row {
+        justify-content: center;
+    }
+
+    .price-details .two.mt-5 {
+        margin-top: 1.5rem !important;
+    }
+
+    .visitors-images .g-4 {
+        gap: 6px;
+    }
+
+    .contact-maps {
+        height: 380px;
+    }
+
+    .reviews .mt-5 {
+        margin-top: 1.5rem !important;
+    }
+
+    .sm-device {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .main-header {
+        display: none;
+    }
+
+    .mobile-header {
+        display: block;
+    }
+}
+
+@media (max-width: 575.98px) {
+    :root {
+        --h1-font-size : 29px;
+        --h2-font-size : 22px;
+        --h3-font-size : 19px;
+        --h4-font-size : 17px;
+        --h5-font-size : 15px;
+        --h6-font-size : 14px;
+        --large-font-size : 15px;
+        --font-size : 14px;
+    }
+
+    .container-padding {
+        padding: 0 0%;
+    }
+
+    .section {
+        padding: 40px 0;
+    }
+
+    .section-half {
+        padding: 20px 0;
+    }
+
+    .banner-content {
+        height: 260px;
+    }
+
+    .banner .prev, .next {
+        display: none !important;
+    }
+
+    .banner .slick-dots li button {
+        height: 8px;
+        width: 8px;
+    }
+
+    .company-about .mt-5 {
+        margin-top: 1rem !important;
+    }
+
+    .ca-banner {
+        height: 180px;
+    }
+
+    .about-banner-content p {
+        font-size: 17px;
+    }
+
+    .watermark .col-md-4 {
+        padding: 0 4px;
+    }
+
+    .watermark {
+        padding: 100px 0 24px 0;
+    }
+
+    .service-content {
+        padding: 12px 0px;
+    }
+
+    .side-border {
+        border-left: 1px solid transparent;
+        border-right: 1px solid transparent;
+    }
+
+    .footer-top {
+        padding: 20px 0;
+    }
+
+    .footer-content .w-90 {
+        width: 50%;
+    }
+
+    .footer-content .w-90 img {
+        margin-top: 10px;
+    }
+
+    footer .address {
+        margin-top: 16px;
+    }
+
+    footer .address br {
+        display: none;
+    }
+
+    .footer-content .tele {
+        font-size: 17px;
+    }
+
+    .contact-details .col-lg-6 {
+        padding: 0 12px;
+    }
+
+    .contact-emergency .row .col-lg-12 {
+        border-top: 1px solid transparent;
+        padding: 0 12px;
+    }
+
+    .open-hrs {
+        margin-top: 20px;
+    }
+
+    .lake-details .row {
+        justify-content: center;
+    }
+
+    .price-details .two.mt-5 {
+        margin-top: 1rem !important;
+    }
+
+    .visitors-images .g-4 {
+        gap: 4px;
+    }
+
+    .contact-maps {
+        height: 220px;
+    }
+
+    .reviews .mt-5 {
+        margin-top: 1rem !important;
+    }
+
+    .review-content .mt-4 {
+        margin-top: .5rem !important;
+    }
+
+    .col-device {
+        margin-top: 16px;
+    }
+
+    .m-menu-content li {
+        padding: 4px 0;
+    }
+
+    .m-links-top i {
+        font-size: 19px;
+    }
+
+    .offcanvas, .offcanvas-lg, .offcanvas-md, .offcanvas-sm, .offcanvas-xl, .offcanvas-xxl {
+        --bs-offcanvas-width: 100%;
+    }
+
+    .mobile-menu .offcanvas-body {
+        transform: translateY(5%);
+        -webkit-transform: translateY(5%);
+        -moz-transform: translateY(5%);
+        -ms-transform: translateY(5%);
+        -o-transform: translateY(5%);
+    }
+
+    .rules .mt-4 {
+        margin-top: .5rem !important;
+    }
+}
+
+@media (max-width: 380.98px) {
+    :root {
+        --h1-font-size : 26px;
+        --h2-font-size : 20px;
+        --h3-font-size : 17px;
+        --h4-font-size : 16px;
+        --h5-font-size : 14px;
+        --h6-font-size : 14px;
+        --large-font-size : 14px;
+        --font-size : 12px;
+    }
+
+    .banner-content {
+        height: 180px;
+    }
+
+    .banner .slick-dots {
+        display: none !important;
+    }
+
+    .ca-banner {
+        height: 140px;
+    }
+
+    .ca-banner.mt-3 {
+        margin-top: 8px !important;
+    }
+}
